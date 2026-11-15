@@ -1,0 +1,48 @@
+AMAZON PRIME VIDEO ANALYSIS - PROJECT SUMMARY
+
+
+1. PROJECT NAME:
+
+   Amazon Prime Movies and TV Shows Analysis
+
+
+2. PROJECT OBJECTIVE:
+
+   To analyze Amazon Prime Video content and identify trends in movies, TV shows, genres, countries, release years and content ratings.
+
+
+3. TOOLS AND LIBRARIES USED:
+
+   • Python
+   • Pandas
+   • NumPy
+   • Matplotlib
+   • Seaborn
+   • Jupyter Notebook
+
+
+4. DATA CLEANING:
+
+   • Handled missing values in selected columns.
+   • Checked duplicate records.
+   • Prepared data for analysis.
+
+
+5. ANALYSIS PERFORMED:
+
+   1. Movies vs TV Shows
+   2. Top 10 Genres
+   3. Top 10 Countries
+   4. Content Released by Year
+   5. Content Ratings Distribution
+
+
+6. VISUALIZATIONS:
+
+   • Created 5 different graphs.
+   • Saved all graphs in the Visualizations folder.
+
+
+7. PROJECT CONCLUSION:
+
+   This project helped analyze Amazon Prime Video content and understand content distribution, popular genres, countries and release trends using Python and data visualization.
